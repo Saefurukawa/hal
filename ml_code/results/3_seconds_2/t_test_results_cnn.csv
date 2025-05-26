@@ -1,0 +1,2 @@
+Data,MCC T-stat,MCC P-value,F1_macro T-stat,F1_macro P-value,F1_weighted T-stat,F1_weighted P-value
+cnn_all,1.2357,0.2216,1.1125,0.2706,1.5707,0.1217

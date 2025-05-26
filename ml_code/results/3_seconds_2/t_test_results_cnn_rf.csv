@@ -1,0 +1,2 @@
+Data,MCC Original T-stat,MCC Original P-value,MCC Oversampled T-stat,MCC Oversampled P-value,F1_macro Original T-stat,F1_macro Original P-value,F1_macro Oversampled T-stat,F1_macro Oversampled P-value,F1_weighted Original T-stat,F1_weighted Original P-value,F1_weighted Oversampled T-stat,F1_weighted Oversampled P-value
+all,-5.7892,0.0,-4.4576,0.0001,-6.1448,0.0,-4.4889,0.0001,-6.8001,0.0,-4.6007,0.0
